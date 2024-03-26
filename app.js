@@ -1,0 +1,1 @@
+(()=>{"use strict";window.addEventListener("load",(e=>{document.querySelectorAll(".mobile-button").forEach((e=>{e.addEventListener("click",(e=>{console.log("click"),document.body.classList.toggle("mobile-menu")}))}))}))})();
